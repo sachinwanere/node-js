@@ -1,14 +1,15 @@
 
 
-let shubham = {
-    Name : 'Shubham',
-    Middlename : 'Arun',
-    lastName : 'Khalse',
+let sachin = {
+    Name : 'sachin',
+    Middlename : 'pralhad',
+    lastName : 'wanere',
     mobNo : 7350787386,
-    Age : 24,
+    Age : 32,
     salary : undefined,
     exp : null,
     isIndian : true
 
 }
-console.log(shubham.Age)
+console.log( sachin.mobNo)
+console.log(sachin.Age)

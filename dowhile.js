@@ -1,4 +1,4 @@
-let m=5;
+let m=24;
 do{
     console.log(m)
     m++;

@@ -1,2 +1,1 @@
- alert (alert(2)|| alert(3));
-console.log(alert)
+ console.log (console.log(2)|| console.log(3));

@@ -1,3 +1,3 @@
-document.write(9*8);
-document.write('Welcome to sachin page');
-Document.write(6+3);
+ alert("enter the value of a" )||  alert(" enter the value of b");
+let result=a*b;
+document.write(result);
