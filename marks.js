@@ -14,3 +14,5 @@ function sachinwanere() {
     }
     else if (marks > 50 && marks <= 60) {
         document.write("You Are Passed And Your Grade is E ")
+    }
+}
