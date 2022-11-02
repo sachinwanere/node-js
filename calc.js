@@ -7,7 +7,7 @@ function sub(b1,b2){
 function mult(c1,c2){
     return c1*c2;
 }
-function div(d1,d2){
+function div(d1,d2){ 
     return d1/d2;
 }
 let result=addition(20,13)

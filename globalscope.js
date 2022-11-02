@@ -6,7 +6,7 @@ function mult(){
     let total=num1*num2;
     console.log('mult :: ' +total)
 }
-function add(){
+function a1dd(){
     let total=num1+num2;
     console.log('addition ::' +total)
 }
